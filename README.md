@@ -17,18 +17,10 @@ Atualmente, estou aprendendo **Python** e **Excel avançado**, buscando evoluir 
 
 ## 🛠 Habilidades
 
-- **Linguagens:** Python (básico)
-- **Ferramentas:** Excel
+- **Linguagens:** Python (básico), Javascript (básico)
+- **Ferramentas:** Excel (básico)
 - **Versionamento:** Git e GitHub
 - **Interesses:** Desenvolvimento Web, Análise de Dados e Automação
-
----
-
-## 📌 Projetos
-
-### 🐍 [Jogo do pedra, papel e tesoura ](file:///C:/Users/Guilherme/Desktop/MUNDO%202%20EX%2045.py
-)
-Programa de jogo feito com python 
 
 ---
 
